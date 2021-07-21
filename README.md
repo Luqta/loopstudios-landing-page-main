@@ -9,20 +9,18 @@ Essa é uma solução para [Loopstudios landing page challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The challenge - O desafio](#the-challenge)
     -[English](#English)
     -[Português](#Português)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [My process - Meu processo](#my-process)
+  - [Built with - Feito com](#built-with)
+- [Author - Autor](#author)
 
 ## Overview
 
-### The challenge
+### The challenge - O desafio
 
 #### English
 Users should be able to:
@@ -43,11 +41,11 @@ Usuários poderão:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://luqta.github.io/loopstudios-landing-page-main/)
+- Live Site URL: [github.io](https://luqta.github.io/loopstudios-landing-page-main/)
 
-## My process
+## My process - Meu processo
 
-### Built with
+### Built with - Construído com
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -55,7 +53,7 @@ Usuários poderão:
 - Mobile-first workflow
 - Javascript
 
-## Author
+## Author - Autor
 
-- Linkedin [Lucas Mateus](https://www.linkedin.com/in/lucas-mateus-5543901a0/)
+- Linkedin - [Lucas Mateus](https://www.linkedin.com/in/lucas-mateus-5543901a0/)
 - Github - [@Luqta](https://www.github.com/Luqta)
