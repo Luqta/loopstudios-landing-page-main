@@ -9,16 +9,16 @@ Essa é uma solução para [Loopstudios landing page challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge - O desafio](#the-challenge)
+  - [The challenge](#the-challenge)
     -[English](#english)
-    -[Português](#dortuguês)
+    -[Português](#português)
   - [Screenshot](#screenshot)
-    -[Desktop version - Versão desktop](#desktop-version)
-    -[Mobile version - Versão mobile](#mobile-version)
+    -[Desktop version](#desktop-version)
+    -[Mobile version](#mobile-version)
   - [Links](#links)
-- [My process - Meu processo](#my-process)
-  - [Built with - Feito com](#built-with)
-- [Author - Autor](#author)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
