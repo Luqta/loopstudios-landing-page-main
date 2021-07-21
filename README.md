@@ -38,10 +38,10 @@ Usuários poderão:
 
 ### Screenshot
 
-## Desktop version
+#### Desktop version
 ![Desktop version](./screenshots/Desktop.png)
 
-## Mobile version
+#### Mobile version
 ![Mobile version](./screenshots/Mobile.png)
 
 ### Links
